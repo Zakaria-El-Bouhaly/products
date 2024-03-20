@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D429698-FBB1-4B5B-8A4A-0D3C039B33D9}|Project\\Project.csproj|c:\\users\\zelbouhaly\\source\\repos\\project\\project\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D429698-FBB1-4B5B-8A4A-0D3C039B33D9}|Project\\Project.csproj|solutionrelative:project\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D429698-FBB1-4B5B-8A4A-0D3C039B33D9}|Project\\Project.csproj|c:\\users\\zelbouhaly\\source\\repos\\project\\project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D429698-FBB1-4B5B-8A4A-0D3C039B33D9}|Project\\Project.csproj|solutionrelative:project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D429698-FBB1-4B5B-8A4A-0D3C039B33D9}|Project\\Project.csproj|c:\\users\\zelbouhaly\\source\\repos\\project\\project\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D429698-FBB1-4B5B-8A4A-0D3C039B33D9}|Project\\Project.csproj|solutionrelative:project\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D429698-FBB1-4B5B-8A4A-0D3C039B33D9}|Project\\Project.csproj|c:\\users\\zelbouhaly\\source\\repos\\project\\project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D429698-FBB1-4B5B-8A4A-0D3C039B33D9}|Project\\Project.csproj|solutionrelative:project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D429698-FBB1-4B5B-8A4A-0D3C039B33D9}|Project\\Project.csproj|c:\\users\\zelbouhaly\\source\\repos\\project\\project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D429698-FBB1-4B5B-8A4A-0D3C039B33D9}|Project\\Project.csproj|solutionrelative:project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\Project\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\Project\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Project\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:48:23.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\Project\\Data\\Data.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\Data.cs",
+              "ToolTip": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\Project\\Data\\Data.cs",
+              "RelativeToolTip": "Project\\Data\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:55:22.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\Project\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\Project\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Project\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwCEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:51:15.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\Project\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\Project\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Project\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:50:57.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zelbouhaly\\source\\repos\\Project\\Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:48:45.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

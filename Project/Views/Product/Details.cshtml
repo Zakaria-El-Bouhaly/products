@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Products";
+}
+
+@model Product;
+
+<div class="text-center">
+    <div class="card" >
+        <div class="card-body">
+            <h5 class="card-title" ">@Model.Name</h5>
+            <h6 class="card-subtitle mb-2 text-muted">@Model.Price $</h6>
+            <p class="card-text">@Model.Description</p>
+            <p class=card-text">@Model.Category.Name</p>
+        </div>
+    </div>
+ 
+
+
+</div>

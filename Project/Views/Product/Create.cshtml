@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+
+@model Product;
+
+<div class="text-center">
+    <div class="card">
+        <form asp-controller="Product" asp-action="CreateUpdate" method="post">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" />
+            <label asp-for="Price"></label>
+            <input asp-for="Price" />
+            <label asp-for="Category"></label>
+            <select asp-for="Category" asp-items="ViewBag.Categories"></select>
+            <label asp-for="Description"></label>
+            <input asp-for="Description" />
+            <button type="submit">Post</button>
+        </form>
+    </div>
+
+
+
+</div>
